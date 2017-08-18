@@ -1,2 +1,2 @@
 # Update cat
-https://mazhuravlev.github.io/update-cat
+https://vildar82.github.io/update-cat/
